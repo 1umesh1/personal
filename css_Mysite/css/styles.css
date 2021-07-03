@@ -1,0 +1,48 @@
+/*****************************Tag selector*****************************************************/
+
+
+body
+{margin:0;
+    text-align: center;
+    font-family:  sans-serif,Sacramento,Verdana, Geneva, Tahoma;
+    font-size: 20px;
+}
+h1{
+    font-size: 70px;
+  margin-top: 0; 
+  font-family: Sacramento,Roberto,Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.profile_img{
+    height: 100px;
+    border-radius: 50%; 
+}
+/*****************************Class selector*****************************************************/
+
+
+.top-container{
+    background-color: #CDF0EA; 
+    padding: 1%;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{ 
+}
+.bottom-container{
+ 
+}
+
+.bottom-cloud
+{position: absolute;
+    left: 300px;
+    bottom: 300px;;
+
+}
+ .top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px; 
+}
+
+/*****************************id selector*****************************************************/
